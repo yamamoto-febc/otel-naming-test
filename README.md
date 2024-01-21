@@ -1,0 +1,1 @@
+# otel-naming-test
